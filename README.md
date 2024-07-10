@@ -1,7 +1,10 @@
 # Railway Management System (RMS)
 
-# Demo
+# Demo Admin
 https://github.com/khantaha2112/railway-management-system/assets/110721493/7e86bc43-80fa-4b6b-8a36-d6a3d95b76bf
+
+# Demo User Reg
+https://github.com/khantaha2112/railway-management-system/assets/110721493/5303c4b2-0fe7-44a6-8d4e-d22929a5733d
 
 ## Table of Contents
 
