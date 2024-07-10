@@ -37,7 +37,7 @@ This project is a Railway Management System designed to emulate functionalities 
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/khantaha2112/railway-management-system.git
-   cd RMS
+   cd orrs
 2. **Install XAMPP:**
 - Download and install XAMPP from https://www.apachefriends.org/download.html
 3. **Start Apache and MySQL:**
